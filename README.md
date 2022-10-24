@@ -6,7 +6,7 @@
 <br>
 <p align="left">
 - 🌱 I’m currently learning **Django and React** <br>
-- 👨‍💻 All of my projects are available at [https://github.com/kushalsubedi?tab=repositories](https://github.com/kushalsubedi?tab=repositories)<br>
+- 👨‍💻 All of my projects are available at https://github.com/kushalsubedi?tab=repositories<br>
 - 📫 How to reach me: **kushalsubedi20@gmail.com**<br>
 - 💬 Ask me about **Front-End Development, Back-End Development, Technology, Bsc. CSIT**<br>
 - 🏠 Location: Pokhara, Nepal <br>
