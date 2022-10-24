@@ -1,7 +1,7 @@
 ### Hello it's me 👋
 <h1>🅺🆄🆂🅷🅰🅻  🆂🆄🅱🅴🅳🅸</h1>
 <h3>https://kushalsubedi.github.io </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="smarikaghimire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
 
 
 <h3 align="center"> I'm a Computer Science and Technology enthusciast , i love to explore new things and learn them </h3>
