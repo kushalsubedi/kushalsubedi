@@ -19,8 +19,8 @@
 ```python
 my_info = {
   "name" : "Kushal Subedi",
-  "Address" : "Pokhara 26,Kaski,Gandaki Nepal",
-  "Email" : ["kushalsubedi20@gmail.com" ,"kushalsubedi55@gmail.com"], 
+  "Address 🏠" : "Pokhara 26,Kaski,Gandaki Nepal",
+  "Email 💬" : ["kushalsubedi20@gmail.com" ,"kushalsubedi55@gmail.com"], 
 }
 ```
 
