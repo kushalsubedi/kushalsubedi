@@ -31,7 +31,8 @@ printf("hello world");
 # 📊 GitHub Stats:
 [![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalsubedi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/kushalsubedi/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kushalsubedi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsubedi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsubedi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/kushalsubedi/github-readme-stats)
+
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=kushalsubedi&custom_title=Kushal%27s%20Contribution%20Graph&theme=react-dark)
