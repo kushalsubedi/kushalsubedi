@@ -2,7 +2,8 @@
 <h1>🅺🆄🆂🅷🅰🅻  🆂🆄🅱🅴🅳🅸</h1>
 <h3>https://kushalsubedi.github.io </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
-<iframe src="https://giphy.com/embed/IntzOO5aNafJu" width="480" height="198" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IntzOO5aNafJu">via GIPHY</a></p>
+<img align ="right" width = "450" src ="https://media.giphy.com/media/IntzOO5aNafJu/giphy.gif">
+
 
 
 <h3 align="center"> I'm a Computer Science and Technology enthusciast , i love to explore new things and learn them </h3>
