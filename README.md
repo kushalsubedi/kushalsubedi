@@ -9,7 +9,7 @@
 <h3 align="center"> I'm a Computer Science and Technology enthusciast , i love to explore new things and learn them </h3>
 <br>
 <p align="left">
-- 🌱 I’m currently learning **Django and React** <br>
+- 🌱 I’m currently learning **Microservices structure** <br>
 - 👨‍💻 All of my projects are available at https://github.com/kushalsubedi?tab=repositories<br>
 - 📫 How to reach me: **kushalsubedi20@gmail.com**<br>
 - 💬 Ask me about **Front-End Development, Back-End Development, Technology, Bsc. CSIT**<br>
