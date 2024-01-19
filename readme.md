@@ -3,7 +3,8 @@
 <h3>https://kushalsubedi.github.io </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
 <img align ="right" width = "450" src ="https://media.giphy.com/media/IntzOO5aNafJu/giphy.gif">
-
+<br>
+<div>
 ```python
 about_me = {
     "general_info": {
@@ -22,6 +23,7 @@ about_me = {
 
 
 ```
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kushal.subedi.9083)
