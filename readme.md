@@ -4,24 +4,23 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
 <img align ="right" width = "450" src ="https://media.giphy.com/media/IntzOO5aNafJu/giphy.gif">
 
+```python
+about_me = {
+    "general_info": {
+        "name": "kushal 👨‍💻",
+        "location": "pokhara 🏠",
+        "email": ["📫 Kushalsubedi20@gmail.com", "📫 kushalsubedi55@gmail.com"],
+    },
+    "tech_stack": {
+        "programming_languages": ["Python 🐍", "C 🗃️", "JS 🌐", "TS 🎓"],
+        "backend_tech_stack": ["Django 🌐", "DRF 🛠️"],
+        "frontend": ["HTML 📄", "CSS 🎨", "Tailwind 🌪️", "React ⚛️", "Bootstrap 🅱️"],
+        "development_tech_stack": ["Neovim 🧛", "VSCode 🧑‍💻", "Docker 🐳", "Linux 🐧"],
+        "exploring": ["NestJS 🏠🐦", "ML 🤖"],
+    }
+}
 
 
-<h3 align="center"> I'm a Computer Science and Technology enthusciast , i love to explore new things and learn them </h3>
-<br>
-<p align="left">
-- 🌱 I’m currently learning **Microservices structure** <br>
-- 👨‍💻 All of my projects are available at https://github.com/kushalsubedi?tab=repositories<br>
-- 📫 How to reach me: **kushalsubedi20@gmail.com**<br>
-- 💬 Ask me about **Front-End Development, Back-End Development, Technology, Bsc. CSIT**<br>
-- 🏠 Location: Pokhara, Nepal <br>
-  </p>
-<br>
-<br>
-
-
-
-```c
-printf("hello world");
 ```
 
 ## 🌐 Socials:
