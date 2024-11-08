@@ -1,6 +1,6 @@
 ### Hello it's me 👋
 <h1>KUS ALL Subedi</h1>
-<h1>I do Devops </h1>
+<h1> Devops/MLOps </h1>
 <img align ="center" width = "450" src ="https://media.giphy.com/media/IntzOO5aNafJu/giphy.gif">
 <p> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
 
