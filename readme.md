@@ -1,8 +1,5 @@
 ### Hello it's me 👋
 <h1>KUS ALL Subedi</h1>
-<h3> pythonist Ghoper and server caretaker <h3> 
-<img align ="center" width = "450" src ="https://media.giphy.com/media/IntzOO5aNafJu/giphy.gif">
-<p> <img src="https://komarev.com/ghpvc/?username=kushalsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="kushalsubedi" /> </p>
 
 
 
