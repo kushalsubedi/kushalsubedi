@@ -2,8 +2,7 @@
 
 **It's Me Kushal**
 
-_Currently i'm Working as a Devops and Backend Engineer_
-
+_I'm DevOps_
 ## 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
