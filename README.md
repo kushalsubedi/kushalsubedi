@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./Black_Hole.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kushalsubedi/kushalsubedi/main/blackhole.gif" alt="Blackhole Banner" width="100%">
 </p>
-
 **It's Me Kushal**
 
 _I'm DevOps_
