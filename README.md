@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kushalsubedi/kushalsubedi/main/blackhole.gif" alt="Blackhole Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/kushalsubedi/kushalsubedi/main/blackhole.gif" alt="Blackhole Banner" height="200" width="1200">
 </p>
 **It's Me Kushal**
 
