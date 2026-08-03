@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./Black_Hole.gif" width="100%"/>
+</p>
 
 **It's Me Kushal**
 
